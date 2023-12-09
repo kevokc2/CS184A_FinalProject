@@ -10,8 +10,8 @@ and evaluated by its accuracy.
 
 How to Use Data and Run
 -------------------------
-Due to the immense size of the dataset, this project is most easily ran by running this notebook on Kaggle under the competition by UBC.
-This allows quick access to the provided data and usage for the model. Otherwise, trying to download the dataset and run separately 
+Due to the immense size of the dataset, this project is most easily ran by using a registered Kaggle account and running this notebook 
+on Kaggle. This allows quick access to the provided data and usage for the model. Otherwise, trying to download the dataset and run separately 
 will take an extremely prolonged amount of time.
 
 Competition Link: https://www.kaggle.com/competitions/UBC-OCEAN
