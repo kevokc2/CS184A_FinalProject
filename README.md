@@ -15,5 +15,5 @@ This allows quick access to the provided data and usage for the model. Otherwise
 will take an extremely prolonged amount of time.
 
 Competition Link: https://www.kaggle.com/competitions/UBC-OCEAN
--------------------------
-Our Project Notebook Lin: https://www.kaggle.com/code/brandonkylewonglo/184a-project-notebook
+
+Our Project Notebook Link: https://www.kaggle.com/code/brandonkylewonglo/184a-project-notebook
