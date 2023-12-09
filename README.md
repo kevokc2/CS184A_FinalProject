@@ -15,7 +15,7 @@ on Kaggle. This allows quick access to the provided data and usage for the model
 will take an extremely prolonged amount of time.
 
 Competition Link: https://www.kaggle.com/competitions/UBC-OCEAN
-(This link also contains the dataset, if needed.)   
+(This link also contains the dataset, if needed.)__   
 Our Project Notebook Link: https://www.kaggle.com/code/brandonkylewonglo/184a-project-notebook
 (Simply enter edit mode and "Run all" to obtain all visible output)  
 Predefined ResNet-50 Model: https://www.kaggle.com/models/tensorflow/resnet-50/frameworks/TensorFlow2/variations/classification/versions/1
