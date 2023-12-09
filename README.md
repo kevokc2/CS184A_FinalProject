@@ -5,8 +5,8 @@ By Brandon Lo, Maitreyi Sinha, Kevin Lee
 About
 -------------------------
 This is our final project for CS184A on ovarian cancer subtype classification, which uses a dataset of microscopy images
-provided by UBC (the host of the Kaggle competition). Our model uses a ResNet-50 architecture to be trained on the given data
-and evaluated by its accuracy.
+provided by UBC (the host of the Kaggle competition). Our model makes use of an existing ResNet-50 architecture to be trained 
+on the given data and evaluated by its accuracy.
 
 How to Use Data and Run
 -------------------------
