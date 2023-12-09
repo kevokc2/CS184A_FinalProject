@@ -22,3 +22,6 @@ Competition Link: https://www.kaggle.com/competitions/UBC-OCEAN
 Our Project Notebook Link: https://www.kaggle.com/code/brandonkylewonglo/184a-project-notebook
 
 (Simply enter edit mode and "Run all" to obtain all visible output)
+
+
+Predefined ResNet-50 Model: https://www.kaggle.com/models/tensorflow/resnet-50/frameworks/TensorFlow2/variations/classification/versions/1
