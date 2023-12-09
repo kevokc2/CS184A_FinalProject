@@ -16,5 +16,8 @@ will take an extremely prolonged amount of time.
 
 Competition Link: https://www.kaggle.com/competitions/UBC-OCEAN
 
+(This link also contains the dataset, if needed.)
+
 Our Project Notebook Link: https://www.kaggle.com/code/brandonkylewonglo/184a-project-notebook
+
 (Simply enter edit mode and "Run all" to obtain all visible output)
